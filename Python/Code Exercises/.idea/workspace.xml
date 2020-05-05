@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4385a93f-807c-4ac3-aca4-d719c4b48780" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exec_9_27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/basic_Inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +47,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OOP" />
   </component>
-  <component name="RunManager" selected="Python.exec_9_27">
-    <configuration name="exec_9_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.OOP_Example">
+    <configuration name="OOP_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exec_9_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/OOP_Example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exec_9_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="basic_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exec_9_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/basic_Inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OOP_Example" />
+        <item itemvalue="Python.basic_Inheritance" />
         <item itemvalue="Python.exec_9_27" />
         <item itemvalue="Python.exec_9_26" />
         <item itemvalue="Python.exec_9_21" />
-        <item itemvalue="Python.exec_9_14" />
-        <item itemvalue="Python.exec_9_12" />
       </list>
     </recent_temporary>
   </component>
@@ -199,22 +204,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="67" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587653104567" />
-    <state width="1025" height="277" key="GridCell.Tab.0.bottom" timestamp="1587681363730">
+    <state width="1830" height="277" key="GridCell.Tab.0.bottom" timestamp="1588686856902">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1025" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1587681363730" />
-    <state width="1025" height="277" key="GridCell.Tab.0.center" timestamp="1587681363729">
+    <state width="1830" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588686856902" />
+    <state width="1830" height="277" key="GridCell.Tab.0.center" timestamp="1588686856901">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1025" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1587681363729" />
-    <state width="1025" height="277" key="GridCell.Tab.0.left" timestamp="1587681363729">
+    <state width="1830" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588686856901" />
+    <state width="1830" height="277" key="GridCell.Tab.0.left" timestamp="1588686856901">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1025" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1587681363729" />
-    <state width="1025" height="277" key="GridCell.Tab.0.right" timestamp="1587681363729">
+    <state width="1830" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588686856901" />
+    <state width="1830" height="277" key="GridCell.Tab.0.right" timestamp="1588686856902">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1025" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1587681363729" />
+    <state width="1830" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588686856902" />
     <state x="403" y="467" width="447" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587678708270">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
